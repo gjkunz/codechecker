@@ -450,3 +450,5 @@ support bug identifier hash generation currently.
   [2015 Euro LLVM Conference](http://llvm.org/devmtg/2015-04) presentations.<br/>
   **Krupp, Dániel and Orbán, György and Horváth, Gábor and Babati, Bence**:<br/>
   [_Industrial Experiences with the Clang Static Analysis Toolset_](http://llvm.org/devmtg/2015-04/slides/Clang_static_analysis_toolset_final.pdf)
+
+  
